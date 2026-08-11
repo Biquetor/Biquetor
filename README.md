@@ -5,7 +5,6 @@
 #### 23yo 
 #### Santa Catarina - Brasil
 #### Atualmente cursando Sistemas de Informação na Unibave e estou na 6 fase. 
-#### Java, JavaScript, SQL,
 
 ### 🤖 Linguagens e Tecnologias
 
